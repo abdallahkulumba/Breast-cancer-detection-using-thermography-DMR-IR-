@@ -8,6 +8,9 @@
 
 A deep learning project for classifying breast thermography images into **Sick**, **Normal**, and **Unknown** categories using a custom CNN with a self-attention mechanism and Grad-CAM visualization.
 
+![Description of image](image.png)
+
+
 ---
 
 ## 📋 Table of Contents
